@@ -1,0 +1,21 @@
+body{
+    font-family: "Homenaje", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+background-color: #d1cdb7;
+  letter-spacing: 0.03rem;
+  color: #454138;
+  padding: 50px;
+}
+hr {
+    border: 0;
+    height: 2px;
+    background-color: #000000;
+    margin: 20px;
+}
+h1 {
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    text-shadow: 0.3rem 0.3rem 0 #bab5a1;
+    }
